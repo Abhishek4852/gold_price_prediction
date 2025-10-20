@@ -13,7 +13,7 @@ README.md # Project overview
 
 ## 📊 Dataset
 
-- Source: [Your source or mention “Collected dataset”]  
+- Source: [\[Your source or mention “Collected dataset”\] ](https://www.kaggle.com/datasets/franciscogcc/financial-data) 
 - Features include: SP500, Nasdaq, Oil, Silver, Platinum, Palladium, USD/CHF, EUR/USD, CPI, GDP, etc.  
 - Target: `gold close` (daily closing price of gold)
 
