@@ -47,6 +47,9 @@ README.md # Project overview
 | Random Forest Regression   | 0.9951 | 1.2357  | 2.0220  |
 
 Random Forest showed the highest accuracy.
+<img width="890" height="594" alt="Screenshot 2025-10-20 at 9 30 12 AM" src="https://github.com/user-attachments/assets/6583934d-b7a0-4096-afb5-f7c85ea38ea4" />
+
+
 
 ## 🔮 Predicting Future Prices
 
