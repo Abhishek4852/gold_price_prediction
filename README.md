@@ -22,7 +22,7 @@ Gold price fluctuates daily due to global markets & economic indicators.
 
 ## 🌐 Live Demo
 
-🔗 **Live App:** *(Add link after deployment)*  
+🔗 **Live App:** *([link](https://gold-price-prediction-abhishek-yaduwanshi.streamlit.app/))*  
 
 ---
 
